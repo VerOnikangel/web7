@@ -2,6 +2,9 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f1aac5;
   }
+button{
+    background-color: #CC0099;
+}
   
   .gallery-container {
     max-width: 100%; /* Адаптируется к ширине экрана */

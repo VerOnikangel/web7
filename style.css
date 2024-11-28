@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f1aac5;
   }
-button{
+.button{
     background-color: #CC0099;
 }
   
@@ -13,7 +13,7 @@ button{
 
   .gallery-track {
     display: flex;
-    transition: transform 0.5s ease;
+    transition: transform 0.8s ease;
   }
   
   .gallery img {
